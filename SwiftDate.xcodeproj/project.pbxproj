@@ -52,11 +52,6 @@
 		6439232620D91D170098EC03 /* TestFormatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6439232520D91D170098EC03 /* TestFormatters.swift */; };
 		6439232720D91D170098EC03 /* TestFormatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6439232520D91D170098EC03 /* TestFormatters.swift */; };
 		6439232820D91D170098EC03 /* TestFormatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6439232520D91D170098EC03 /* TestFormatters.swift */; };
-		6470DD1420D27AF500BC2E74 /* String+Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1320D27AF500BC2E74 /* String+Parser.swift */; };
-		6470DD1520D27AF500BC2E74 /* String+Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1320D27AF500BC2E74 /* String+Parser.swift */; };
-		6470DD1620D27AF500BC2E74 /* String+Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1320D27AF500BC2E74 /* String+Parser.swift */; };
-		6470DD1720D27AF500BC2E74 /* String+Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1320D27AF500BC2E74 /* String+Parser.swift */; };
-		6470DD1820D27AF500BC2E74 /* String+Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1320D27AF500BC2E74 /* String+Parser.swift */; };
 		6470DD1A20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1920D296EA00BC2E74 /* TimeInterval+Formatter.swift */; };
 		6470DD1B20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1920D296EA00BC2E74 /* TimeInterval+Formatter.swift */; };
 		6470DD1C20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6470DD1920D296EA00BC2E74 /* TimeInterval+Formatter.swift */; };
@@ -80,16 +75,6 @@
 		647AD65C21F4851F00CF787E /* TestDataStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647AD65B21F4851F00CF787E /* TestDataStructures.swift */; };
 		647AD65D21F4851F00CF787E /* TestDataStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647AD65B21F4851F00CF787E /* TestDataStructures.swift */; };
 		647AD65E21F4851F00CF787E /* TestDataStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647AD65B21F4851F00CF787E /* TestDataStructures.swift */; };
-		64990AF82286FC31006C427D /* langs in Resources */ = {isa = PBXBuildFile; fileRef = 64990AF72286FC31006C427D /* langs */; };
-		64990AF92286FC31006C427D /* langs in Resources */ = {isa = PBXBuildFile; fileRef = 64990AF72286FC31006C427D /* langs */; };
-		64990AFA2286FC31006C427D /* langs in Resources */ = {isa = PBXBuildFile; fileRef = 64990AF72286FC31006C427D /* langs */; };
-		64990AFB2286FC31006C427D /* langs in Resources */ = {isa = PBXBuildFile; fileRef = 64990AF72286FC31006C427D /* langs */; };
-		64990AFC2286FC31006C427D /* langs in Resources */ = {isa = PBXBuildFile; fileRef = 64990AF72286FC31006C427D /* langs */; };
-		649D0E032287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */; };
-		649D0E042287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */; };
-		649D0E052287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */; };
-		649D0E062287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */; };
-		649D0E072287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */; };
 		649D473B20C81A2A00513A67 /* DateRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D473A20C81A2A00513A67 /* DateRepresentable.swift */; };
 		649D473C20C81A2A00513A67 /* DateRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D473A20C81A2A00513A67 /* DateRepresentable.swift */; };
 		649D473D20C81A2A00513A67 /* DateRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D473A20C81A2A00513A67 /* DateRepresentable.swift */; };
@@ -110,26 +95,6 @@
 		649D475020C827C400513A67 /* AssociatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D474D20C827C400513A67 /* AssociatedValues.swift */; };
 		649D475120C827C400513A67 /* AssociatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D474D20C827C400513A67 /* AssociatedValues.swift */; };
 		649D475220C827C400513A67 /* AssociatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D474D20C827C400513A67 /* AssociatedValues.swift */; };
-		649D475A20C84FAC00513A67 /* ISOFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D475920C84FAC00513A67 /* ISOFormatter.swift */; };
-		649D475B20C84FAC00513A67 /* ISOFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D475920C84FAC00513A67 /* ISOFormatter.swift */; };
-		649D475C20C84FAC00513A67 /* ISOFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D475920C84FAC00513A67 /* ISOFormatter.swift */; };
-		649D475D20C84FAC00513A67 /* ISOFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D475920C84FAC00513A67 /* ISOFormatter.swift */; };
-		649D475E20C84FAC00513A67 /* ISOFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D475920C84FAC00513A67 /* ISOFormatter.swift */; };
-		649D476120C8529500513A67 /* Formatter+Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476020C8529500513A67 /* Formatter+Protocols.swift */; };
-		649D476220C8529500513A67 /* Formatter+Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476020C8529500513A67 /* Formatter+Protocols.swift */; };
-		649D476320C8529500513A67 /* Formatter+Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476020C8529500513A67 /* Formatter+Protocols.swift */; };
-		649D476420C8529500513A67 /* Formatter+Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476020C8529500513A67 /* Formatter+Protocols.swift */; };
-		649D476520C8529500513A67 /* Formatter+Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476020C8529500513A67 /* Formatter+Protocols.swift */; };
-		649D476D20C85C7100513A67 /* ISOParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476C20C85C7100513A67 /* ISOParser.swift */; };
-		649D476E20C85C7100513A67 /* ISOParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476C20C85C7100513A67 /* ISOParser.swift */; };
-		649D476F20C85C7100513A67 /* ISOParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476C20C85C7100513A67 /* ISOParser.swift */; };
-		649D477020C85C7100513A67 /* ISOParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476C20C85C7100513A67 /* ISOParser.swift */; };
-		649D477120C85C7100513A67 /* ISOParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D476C20C85C7100513A67 /* ISOParser.swift */; };
-		649D477320C872DA00513A67 /* DotNetParserFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477220C872DA00513A67 /* DotNetParserFormatter.swift */; };
-		649D477420C872DA00513A67 /* DotNetParserFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477220C872DA00513A67 /* DotNetParserFormatter.swift */; };
-		649D477520C872DA00513A67 /* DotNetParserFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477220C872DA00513A67 /* DotNetParserFormatter.swift */; };
-		649D477620C872DA00513A67 /* DotNetParserFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477220C872DA00513A67 /* DotNetParserFormatter.swift */; };
-		649D477720C872DA00513A67 /* DotNetParserFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477220C872DA00513A67 /* DotNetParserFormatter.swift */; };
 		649D477920C877C300513A67 /* DateInRegion+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477820C877C300513A67 /* DateInRegion+Create.swift */; };
 		649D477A20C877C300513A67 /* DateInRegion+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477820C877C300513A67 /* DateInRegion+Create.swift */; };
 		649D477B20C877C300513A67 /* DateInRegion+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D477820C877C300513A67 /* DateInRegion+Create.swift */; };
@@ -180,16 +145,6 @@
 		649D47C420C964E000513A67 /* Int+DateComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47C120C964E000513A67 /* Int+DateComponents.swift */; };
 		649D47C520C964E000513A67 /* Int+DateComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47C120C964E000513A67 /* Int+DateComponents.swift */; };
 		649D47C620C964E000513A67 /* Int+DateComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47C120C964E000513A67 /* Int+DateComponents.swift */; };
-		649D47E120CAAB7400513A67 /* RelativeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47E020CAAB7400513A67 /* RelativeFormatter.swift */; };
-		649D47E220CAAB7400513A67 /* RelativeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47E020CAAB7400513A67 /* RelativeFormatter.swift */; };
-		649D47E320CAAB7400513A67 /* RelativeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47E020CAAB7400513A67 /* RelativeFormatter.swift */; };
-		649D47E420CAAB7400513A67 /* RelativeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47E020CAAB7400513A67 /* RelativeFormatter.swift */; };
-		649D47E520CAAB7400513A67 /* RelativeFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47E020CAAB7400513A67 /* RelativeFormatter.swift */; };
-		649D47EE20CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */; };
-		649D47EF20CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */; };
-		649D47F020CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */; };
-		649D47F120CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */; };
-		649D47F220CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */; };
 		64B5E25320D306220067EDC1 /* TimePeriod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B5E25220D306220067EDC1 /* TimePeriod.swift */; };
 		64B5E25420D306220067EDC1 /* TimePeriod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B5E25220D306220067EDC1 /* TimePeriod.swift */; };
 		64B5E25520D306220067EDC1 /* TimePeriod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B5E25220D306220067EDC1 /* TimePeriod.swift */; };
@@ -280,23 +235,16 @@
 		6439231D20D90CB10098EC03 /* TestDateInRegion+Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TestDateInRegion+Components.swift"; sourceTree = "<group>"; };
 		6439232120D912670098EC03 /* TestDateInRegion+Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TestDateInRegion+Math.swift"; sourceTree = "<group>"; };
 		6439232520D91D170098EC03 /* TestFormatters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFormatters.swift; sourceTree = "<group>"; };
-		6470DD1320D27AF500BC2E74 /* String+Parser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Parser.swift"; sourceTree = "<group>"; };
 		6470DD1920D296EA00BC2E74 /* TimeInterval+Formatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TimeInterval+Formatter.swift"; sourceTree = "<group>"; };
 		6470DD2020D2A55300BC2E74 /* TimePeriodProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePeriodProtocol.swift; sourceTree = "<group>"; };
 		6470DD2D20D2B64200BC2E74 /* TimePeriod+Support.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TimePeriod+Support.swift"; sourceTree = "<group>"; };
 		647AD65521F4826100CF787E /* TimeStructures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeStructures.swift; sourceTree = "<group>"; };
 		647AD65B21F4851F00CF787E /* TestDataStructures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDataStructures.swift; sourceTree = "<group>"; };
 		647DA61A20D3FAB800E20E8C /* Documentation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documentation; sourceTree = "<group>"; };
-		64990AF72286FC31006C427D /* langs */ = {isa = PBXFileReference; lastKnownFileType = folder; path = langs; sourceTree = "<group>"; };
-		649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeFormatterLanguage.swift; sourceTree = "<group>"; };
 		649D473A20C81A2A00513A67 /* DateRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DateRepresentable.swift; path = SwiftDate/DateRepresentable.swift; sourceTree = "<group>"; };
 		649D474020C81A4200513A67 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		649D474720C8241C00513A67 /* Commons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Commons.swift; sourceTree = "<group>"; };
 		649D474D20C827C400513A67 /* AssociatedValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssociatedValues.swift; sourceTree = "<group>"; };
-		649D475920C84FAC00513A67 /* ISOFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISOFormatter.swift; sourceTree = "<group>"; };
-		649D476020C8529500513A67 /* Formatter+Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Formatter+Protocols.swift"; sourceTree = "<group>"; };
-		649D476C20C85C7100513A67 /* ISOParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISOParser.swift; sourceTree = "<group>"; };
-		649D477220C872DA00513A67 /* DotNetParserFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotNetParserFormatter.swift; sourceTree = "<group>"; };
 		649D477820C877C300513A67 /* DateInRegion+Create.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateInRegion+Create.swift"; sourceTree = "<group>"; };
 		649D477E20C880DC00513A67 /* Date+Create.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Create.swift"; sourceTree = "<group>"; };
 		649D478420C8861200513A67 /* DateInRegion+Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateInRegion+Components.swift"; sourceTree = "<group>"; };
@@ -307,8 +255,6 @@
 		649D47B520C9586500513A67 /* DateInRegion+Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateInRegion+Math.swift"; sourceTree = "<group>"; };
 		649D47BB20C959F500513A67 /* Date+Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Math.swift"; sourceTree = "<group>"; };
 		649D47C120C964E000513A67 /* Int+DateComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Int+DateComponents.swift"; sourceTree = "<group>"; };
-		649D47E020CAAB7400513A67 /* RelativeFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeFormatter.swift; sourceTree = "<group>"; };
-		649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RelativeFormatter+Style.swift"; sourceTree = "<group>"; };
 		64B5E25220D306220067EDC1 /* TimePeriod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePeriod.swift; sourceTree = "<group>"; };
 		64B5E25820D3090A0067EDC1 /* TimePeriodGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePeriodGroup.swift; sourceTree = "<group>"; };
 		64B5E25F20D30AE40067EDC1 /* TimePeriodCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePeriodCollection.swift; sourceTree = "<group>"; };
@@ -482,7 +428,6 @@
 		6470DD2620D2A5EF00BC2E74 /* Foundation+Extras */ = {
 			isa = PBXGroup;
 			children = (
-				6470DD1320D27AF500BC2E74 /* String+Parser.swift */,
 				6470DD1920D296EA00BC2E74 /* TimeInterval+Formatter.swift */,
 				649D47AF20C9276400513A67 /* DateComponents+Extras.swift */,
 				649D47C120C964E000513A67 /* Int+DateComponents.swift */,
@@ -502,30 +447,6 @@
 			);
 			name = Date;
 			path = SwiftDate/Date;
-			sourceTree = "<group>";
-		};
-		649D475F20C84FB000513A67 /* Formatters */ = {
-			isa = PBXGroup;
-			children = (
-				649D476020C8529500513A67 /* Formatter+Protocols.swift */,
-				649D475920C84FAC00513A67 /* ISOFormatter.swift */,
-				649D476C20C85C7100513A67 /* ISOParser.swift */,
-				649D477220C872DA00513A67 /* DotNetParserFormatter.swift */,
-				649D47E620CAB46400513A67 /* RelativeFormatter */,
-			);
-			name = Formatters;
-			path = SwiftDate/Formatters;
-			sourceTree = "<group>";
-		};
-		649D47E620CAB46400513A67 /* RelativeFormatter */ = {
-			isa = PBXGroup;
-			children = (
-				649D47E020CAAB7400513A67 /* RelativeFormatter.swift */,
-				649D47ED20CAB96D00513A67 /* RelativeFormatter+Style.swift */,
-				649D0E022287412C0056D42E /* RelativeFormatterLanguage.swift */,
-				64990AF72286FC31006C427D /* langs */,
-			);
-			path = RelativeFormatter;
 			sourceTree = "<group>";
 		};
 		64B5E25E20D309210067EDC1 /* Groups */ = {
@@ -548,7 +469,6 @@
 				6470DD1F20D2A32600BC2E74 /* TimePeriod */,
 				6434DD6520C7FAFB007626EF /* DateInRegion */,
 				649D474620C81A4800513A67 /* Date */,
-				649D475F20C84FB000513A67 /* Formatters */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -841,7 +761,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64990AF82286FC31006C427D /* langs in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -856,7 +775,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64990AFA2286FC31006C427D /* langs in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -864,7 +782,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64990AFB2286FC31006C427D /* langs in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -872,7 +789,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64990AF92286FC31006C427D /* langs in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -882,7 +798,6 @@
 			files = (
 				6434DD9920C809B4007626EF /* LaunchScreen.storyboard in Resources */,
 				6434DD9620C809B4007626EF /* Assets.xcassets in Resources */,
-				64990AFC2286FC31006C427D /* langs in Resources */,
 				6434DD9420C809B3007626EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -927,14 +842,10 @@
 			files = (
 				64B5E26020D30AE40067EDC1 /* TimePeriodCollection.swift in Sources */,
 				649D473B20C81A2A00513A67 /* DateRepresentable.swift in Sources */,
-				6470DD1420D27AF500BC2E74 /* String+Parser.swift in Sources */,
-				649D47E120CAAB7400513A67 /* RelativeFormatter.swift in Sources */,
 				6470DD2E20D2B64200BC2E74 /* TimePeriod+Support.swift in Sources */,
 				64B5E26620D30E620067EDC1 /* TimePeriodChain.swift in Sources */,
 				649D474120C81A4200513A67 /* Date.swift in Sources */,
-				649D476D20C85C7100513A67 /* ISOParser.swift in Sources */,
 				6434DD7C20C803EF007626EF /* SwiftDate.swift in Sources */,
-				649D0E032287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */,
 				649D47BC20C959F500513A67 /* Date+Math.swift in Sources */,
 				649D47AA20C91C0B00513A67 /* Date+Compare.swift in Sources */,
 				6434DD7220C80126007626EF /* Calendars.swift in Sources */,
@@ -945,21 +856,17 @@
 				649D477F20C880DC00513A67 /* Date+Create.swift in Sources */,
 				6470DD2120D2A55300BC2E74 /* TimePeriodProtocol.swift in Sources */,
 				649D474E20C827C400513A67 /* AssociatedValues.swift in Sources */,
-				649D476120C8529500513A67 /* Formatter+Protocols.swift in Sources */,
 				649D474820C8241C00513A67 /* Commons.swift in Sources */,
 				6434DD7720C80263007626EF /* Locales.swift in Sources */,
 				64B5E25920D3090A0067EDC1 /* TimePeriodGroup.swift in Sources */,
-				649D477320C872DA00513A67 /* DotNetParserFormatter.swift in Sources */,
 				6434DD6120C7FAF6007626EF /* DateInRegion.swift in Sources */,
 				649D47B620C9586500513A67 /* DateInRegion+Math.swift in Sources */,
 				649D479220C913E200513A67 /* Date+Components.swift in Sources */,
-				649D47EE20CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */,
 				6470DD1A20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */,
 				6434DD6720C7FC6A007626EF /* Region.swift in Sources */,
 				649D47A420C91BEA00513A67 /* DateInRegion+Compare.swift in Sources */,
 				649D47C220C964E000513A67 /* Int+DateComponents.swift in Sources */,
 				649D47B020C9276400513A67 /* DateComponents+Extras.swift in Sources */,
-				649D475A20C84FAC00513A67 /* ISOFormatter.swift in Sources */,
 				6434DD6D20C7FEED007626EF /* Zones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -987,14 +894,10 @@
 			files = (
 				64B5E26220D30AE40067EDC1 /* TimePeriodCollection.swift in Sources */,
 				649D473D20C81A2A00513A67 /* DateRepresentable.swift in Sources */,
-				6470DD1620D27AF500BC2E74 /* String+Parser.swift in Sources */,
-				649D47E320CAAB7400513A67 /* RelativeFormatter.swift in Sources */,
 				6470DD3020D2B64200BC2E74 /* TimePeriod+Support.swift in Sources */,
 				64B5E26820D30E620067EDC1 /* TimePeriodChain.swift in Sources */,
 				649D474320C81A4200513A67 /* Date.swift in Sources */,
-				649D476F20C85C7100513A67 /* ISOParser.swift in Sources */,
 				6434DD7E20C803EF007626EF /* SwiftDate.swift in Sources */,
-				649D0E052287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */,
 				649D47BE20C959F500513A67 /* Date+Math.swift in Sources */,
 				649D47AC20C91C0B00513A67 /* Date+Compare.swift in Sources */,
 				6434DD7420C80126007626EF /* Calendars.swift in Sources */,
@@ -1005,21 +908,17 @@
 				649D478120C880DC00513A67 /* Date+Create.swift in Sources */,
 				6470DD2320D2A55300BC2E74 /* TimePeriodProtocol.swift in Sources */,
 				649D475020C827C400513A67 /* AssociatedValues.swift in Sources */,
-				649D476320C8529500513A67 /* Formatter+Protocols.swift in Sources */,
 				649D474A20C8241C00513A67 /* Commons.swift in Sources */,
 				6434DD7920C80263007626EF /* Locales.swift in Sources */,
 				64B5E25B20D3090A0067EDC1 /* TimePeriodGroup.swift in Sources */,
-				649D477520C872DA00513A67 /* DotNetParserFormatter.swift in Sources */,
 				6434DD6320C7FAF6007626EF /* DateInRegion.swift in Sources */,
 				649D47B820C9586500513A67 /* DateInRegion+Math.swift in Sources */,
 				649D479420C913E200513A67 /* Date+Components.swift in Sources */,
-				649D47F020CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */,
 				6470DD1C20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */,
 				6434DD6920C7FC6A007626EF /* Region.swift in Sources */,
 				649D47A620C91BEA00513A67 /* DateInRegion+Compare.swift in Sources */,
 				649D47C420C964E000513A67 /* Int+DateComponents.swift in Sources */,
 				649D47B220C9276400513A67 /* DateComponents+Extras.swift in Sources */,
-				649D475C20C84FAC00513A67 /* ISOFormatter.swift in Sources */,
 				6434DD6F20C7FEED007626EF /* Zones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1030,14 +929,10 @@
 			files = (
 				64B5E26320D30AE40067EDC1 /* TimePeriodCollection.swift in Sources */,
 				649D473E20C81A2A00513A67 /* DateRepresentable.swift in Sources */,
-				6470DD1720D27AF500BC2E74 /* String+Parser.swift in Sources */,
-				649D47E420CAAB7400513A67 /* RelativeFormatter.swift in Sources */,
 				6470DD3120D2B64200BC2E74 /* TimePeriod+Support.swift in Sources */,
 				64B5E26920D30E620067EDC1 /* TimePeriodChain.swift in Sources */,
 				649D474420C81A4200513A67 /* Date.swift in Sources */,
-				649D477020C85C7100513A67 /* ISOParser.swift in Sources */,
 				6434DD7F20C803EF007626EF /* SwiftDate.swift in Sources */,
-				649D0E062287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */,
 				649D47BF20C959F500513A67 /* Date+Math.swift in Sources */,
 				649D47AD20C91C0B00513A67 /* Date+Compare.swift in Sources */,
 				6434DD7520C80126007626EF /* Calendars.swift in Sources */,
@@ -1048,21 +943,17 @@
 				649D478220C880DC00513A67 /* Date+Create.swift in Sources */,
 				6470DD2420D2A55300BC2E74 /* TimePeriodProtocol.swift in Sources */,
 				649D475120C827C400513A67 /* AssociatedValues.swift in Sources */,
-				649D476420C8529500513A67 /* Formatter+Protocols.swift in Sources */,
 				649D474B20C8241C00513A67 /* Commons.swift in Sources */,
 				6434DD7A20C80263007626EF /* Locales.swift in Sources */,
 				64B5E25C20D3090A0067EDC1 /* TimePeriodGroup.swift in Sources */,
-				649D477620C872DA00513A67 /* DotNetParserFormatter.swift in Sources */,
 				6434DD6420C7FAF6007626EF /* DateInRegion.swift in Sources */,
 				649D47B920C9586500513A67 /* DateInRegion+Math.swift in Sources */,
 				649D479520C913E200513A67 /* Date+Components.swift in Sources */,
-				649D47F120CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */,
 				6470DD1D20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */,
 				6434DD6A20C7FC6A007626EF /* Region.swift in Sources */,
 				649D47A720C91BEA00513A67 /* DateInRegion+Compare.swift in Sources */,
 				649D47C520C964E000513A67 /* Int+DateComponents.swift in Sources */,
 				649D47B320C9276400513A67 /* DateComponents+Extras.swift in Sources */,
-				649D475D20C84FAC00513A67 /* ISOFormatter.swift in Sources */,
 				6434DD7020C7FEED007626EF /* Zones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1073,14 +964,10 @@
 			files = (
 				64B5E26120D30AE40067EDC1 /* TimePeriodCollection.swift in Sources */,
 				649D473C20C81A2A00513A67 /* DateRepresentable.swift in Sources */,
-				6470DD1520D27AF500BC2E74 /* String+Parser.swift in Sources */,
-				649D47E220CAAB7400513A67 /* RelativeFormatter.swift in Sources */,
 				6470DD2F20D2B64200BC2E74 /* TimePeriod+Support.swift in Sources */,
 				64B5E26720D30E620067EDC1 /* TimePeriodChain.swift in Sources */,
 				649D474220C81A4200513A67 /* Date.swift in Sources */,
-				649D476E20C85C7100513A67 /* ISOParser.swift in Sources */,
 				6434DD7D20C803EF007626EF /* SwiftDate.swift in Sources */,
-				649D0E042287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */,
 				649D47BD20C959F500513A67 /* Date+Math.swift in Sources */,
 				649D47AB20C91C0B00513A67 /* Date+Compare.swift in Sources */,
 				6434DD7320C80126007626EF /* Calendars.swift in Sources */,
@@ -1091,21 +978,17 @@
 				649D478020C880DC00513A67 /* Date+Create.swift in Sources */,
 				6470DD2220D2A55300BC2E74 /* TimePeriodProtocol.swift in Sources */,
 				649D474F20C827C400513A67 /* AssociatedValues.swift in Sources */,
-				649D476220C8529500513A67 /* Formatter+Protocols.swift in Sources */,
 				649D474920C8241C00513A67 /* Commons.swift in Sources */,
 				6434DD7820C80263007626EF /* Locales.swift in Sources */,
 				64B5E25A20D3090A0067EDC1 /* TimePeriodGroup.swift in Sources */,
-				649D477420C872DA00513A67 /* DotNetParserFormatter.swift in Sources */,
 				6434DD6220C7FAF6007626EF /* DateInRegion.swift in Sources */,
 				649D47B720C9586500513A67 /* DateInRegion+Math.swift in Sources */,
 				649D479320C913E200513A67 /* Date+Components.swift in Sources */,
-				649D47EF20CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */,
 				6470DD1B20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */,
 				6434DD6820C7FC6A007626EF /* Region.swift in Sources */,
 				649D47A520C91BEA00513A67 /* DateInRegion+Compare.swift in Sources */,
 				649D47C320C964E000513A67 /* Int+DateComponents.swift in Sources */,
 				649D47B120C9276400513A67 /* DateComponents+Extras.swift in Sources */,
-				649D475B20C84FAC00513A67 /* ISOFormatter.swift in Sources */,
 				6434DD6E20C7FEED007626EF /* Zones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1114,15 +997,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				649D0E072287412C0056D42E /* RelativeFormatterLanguage.swift in Sources */,
-				649D475E20C84FAC00513A67 /* ISOFormatter.swift in Sources */,
 				64B5E26A20D30E620067EDC1 /* TimePeriodChain.swift in Sources */,
 				6434DDA020C809C2007626EF /* Calendars.swift in Sources */,
-				649D47E520CAAB7400513A67 /* RelativeFormatter.swift in Sources */,
-				6470DD1820D27AF500BC2E74 /* String+Parser.swift in Sources */,
 				649D475220C827C400513A67 /* AssociatedValues.swift in Sources */,
 				6434DDA120C809C2007626EF /* Locales.swift in Sources */,
-				649D476520C8529500513A67 /* Formatter+Protocols.swift in Sources */,
 				6470DD2520D2A55300BC2E74 /* TimePeriodProtocol.swift in Sources */,
 				647AD65A21F4826100CF787E /* TimeStructures.swift in Sources */,
 				6434DD9F20C809C2007626EF /* Zones.swift in Sources */,
@@ -1135,8 +1013,6 @@
 				649D47B420C9276400513A67 /* DateComponents+Extras.swift in Sources */,
 				649D47C020C959F500513A67 /* Date+Math.swift in Sources */,
 				649D47AE20C91C0B00513A67 /* Date+Compare.swift in Sources */,
-				649D477720C872DA00513A67 /* DotNetParserFormatter.swift in Sources */,
-				649D477120C85C7100513A67 /* ISOParser.swift in Sources */,
 				649D47C620C964E000513A67 /* Int+DateComponents.swift in Sources */,
 				6434DDA420C809C2007626EF /* DateInRegion.swift in Sources */,
 				6434DD9120C809B3007626EF /* ViewController.swift in Sources */,
@@ -1149,7 +1025,6 @@
 				6470DD1E20D296EA00BC2E74 /* TimeInterval+Formatter.swift in Sources */,
 				6434DD8F20C809B3007626EF /* AppDelegate.swift in Sources */,
 				649D478920C8861200513A67 /* DateInRegion+Components.swift in Sources */,
-				649D47F220CAB96D00513A67 /* RelativeFormatter+Style.swift in Sources */,
 				6434DD9E20C809C2007626EF /* SwiftDate.swift in Sources */,
 				64B5E25D20D3090A0067EDC1 /* TimePeriodGroup.swift in Sources */,
 			);
